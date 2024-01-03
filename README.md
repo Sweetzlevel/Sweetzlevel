@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sweetzlevel.
 - 👀 I’m interested in: Programming.
-- 🌱 I’m currently learning: C#, VB.
+- 🌱 I’m currently learning: C#, VB, GO.
 - 💞️ I’m looking to collaborate: on BAD Company
 - 📫 How to reach me: -
 
